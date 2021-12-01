@@ -1,1 +1,1 @@
-# USB-over-Network
+# USB-over-Ethernet
