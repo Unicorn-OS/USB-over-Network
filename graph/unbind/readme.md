@@ -1,5 +1,8 @@
 # Prevent USB from being used locally!
 # Guide:
+https://lwn.net/Articles/143397/
+
+# Discuss:
 - https://stackoverflow.com/questions/59755514/unbinded-usb-device-get-automatically-bind-on-linux
 - https://stackoverflow.com/questions/18765725/turning-off-a-single-usb-device-again
 
