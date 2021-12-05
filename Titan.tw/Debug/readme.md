@@ -1,4 +1,6 @@
 # Problem
+`cannot open socket connection with daemon`
+
 https://www.google.com/search?q=anyplaceusb+%22cannot+open+socket+connection+with+daemon%22
 
 # research
