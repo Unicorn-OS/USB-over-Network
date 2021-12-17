@@ -7,5 +7,5 @@ http://cheesehead-techblog.blogspot.com/2019/08/experimenting-with-usb-devices-a
 - works: **true!**
 
 
-# Raspberry Pi
+# hwdb.Raspberry Pi
 https://derushadigital.com/other%20projects/2019/02/19/RPi-USBIP-ZWave.html
